@@ -27,3 +27,4 @@ Fight enemies!
 Unlock new areas
 ![murPNG](https://github.com/Rizerek/Shroomed/assets/91278157/4eecb743-f2f2-464d-bae8-d669faaf5f8c)
 ![wizard](https://github.com/Rizerek/Shroomed/assets/91278157/231a9be0-e357-498b-9802-6c5f43f3d07f)
+![bull](https://github.com/Rizerek/Shroomed/assets/91278157/93f1d7ad-7280-4d72-90e3-95c85af04ac8)
